@@ -29,7 +29,7 @@
 
 I'm a **Frontend Developer** passionate about crafting clean, fast, and responsive web interfaces with **React**, **Tailwind CSS**, and **TypeScript**.
 
-- 🎓 Studying **Information Technology** at Minia University  
+- 🎓 Studying **Information Technolog** at Minia University  
 - 💡 Problem solver focused on clean, maintainable code  
 - 📚 Lifelong learner eager to explore new technologies  
 
@@ -70,17 +70,17 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 ---
 
 ## 📚 Currently Learning
-
-- Redux Toolkit & React Query  
-- Firebase Auth & Firestore  
-- Next.js  
+ 
+- Next.js
+- CSS preprocessor
+- Docker
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ashraf-Saber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-anter19200&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -128,6 +128,6 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 <br clear="both">
 
-<img src="https://github.com/Ibrahim-Ashraf-Saber/Ibrahim-Ashraf-Saber/raw/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mohamed-anter19200/mohamed-anter19200/raw/output/snake.svg" alt="Snake animation" />
 
 ---
