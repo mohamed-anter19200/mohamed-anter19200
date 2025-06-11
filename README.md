@@ -1,7 +1,7 @@
   # 👋 Hello, I'm Mohamed Anter
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Front-end+Web+Developer;React+js+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+clean+%26+responsive+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Front-end+Web+Developer;React+js+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+professional+UI" alt="Typing SVG" />
 </div>
 
 <div align="center" id="header">
