@@ -15,12 +15,9 @@
   <a href="https://www.linkedin.com/in/mohamed-amin-503b24356" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@the-cybermind" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  </a> -->
 </p>
 
 ---
