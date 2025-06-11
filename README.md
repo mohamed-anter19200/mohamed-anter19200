@@ -9,10 +9,10 @@
 </div>
 
 <p align="center">
-  <a href="mailto:xxibrahimashrafxx@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mohamedanter192004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahim-ashraf-924520259/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mohamed-amin-503b24356" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
