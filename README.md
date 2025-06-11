@@ -77,23 +77,8 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-anter19200&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<--!
----
 
-## 📌 Featured Projects
-
-### 📄 [CV Application (React)](https://github.com/Ibrahim-Ashraf-Saber/Project-CVApplication)  
-- Dynamic CV builder with add/edit/delete features  
-- Modular React components styled with Tailwind CSS  
-- Local state management for smooth UX  
-🔗 [Live Demo](https://project-cv-application-beta.vercel.app/)
-
-### 🔄 [CRUD App (React)](https://github.com/Ibrahim-Ashraf-Saber/CRUD)  
-- Basic CRUD operations implemented in React  
-- User-friendly form and state handling  
-- Ideal for learning React fundamentals  
-🔗 [Live Demo](https://ibrahim-ashraf-saber.github.io/CRUD/)
--->
+ 
 
 ---
 
@@ -111,13 +96,5 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-anter19200&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<br clear="both">
-
-<img src="https://github.com/mohamed-anter19200/raw/output/snake.svg" alt="Snake animation" />
 
 ---
