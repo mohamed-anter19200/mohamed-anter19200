@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/mohamed-amin-503b24356" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<!--   <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
 
 ---
@@ -26,7 +23,7 @@
 
 I'm a **Frontend Developer** passionate about crafting clean, fast, and responsive web interfaces with **React**, **Tailwind CSS**, and **TypeScript**.
 
-- 🎓 Studying **Information Technolog** at Minia University  
+- 🎓 Studying **Computer Science** at Minia University  
 - 💡 Problem solver focused on clean, maintainable code  
 - 📚 Lifelong learner eager to explore new technologies  
 
@@ -62,7 +59,7 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, TypeScript  
 - **Styling:** Tailwind CSS, Material UI  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code  , Cursor AI
 
 ---
 
@@ -101,22 +98,16 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:xxibrahimashrafxx@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mohamedanter192004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahim-ashraf-924520259/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mohamed-amin-503b24356" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://my-portfolio-opal-eta-57.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@the-cybermind" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibrahim-Ashraf-Saber&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-anter19200&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
