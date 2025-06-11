@@ -1,8 +1,7 @@
   # 👋 Hello, I'm Mohamed Anter
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-end+Web+Developer;React+js+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+clean+and+responsive+UI" alt="Typing SVG" /></a>
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Front-end+Web+Developer;React+js+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+clean+%26+responsive+UI" alt="Typing SVG" /></a>
 
 <div align="center" id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Waving hand" />
