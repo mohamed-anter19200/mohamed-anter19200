@@ -77,6 +77,7 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-anter19200&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<--!
 ---
 
 ## 📌 Featured Projects
@@ -92,6 +93,7 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 - User-friendly form and state handling  
 - Ideal for learning React fundamentals  
 🔗 [Live Demo](https://ibrahim-ashraf-saber.github.io/CRUD/)
+-->
 
 ---
 
@@ -116,6 +118,6 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 <br clear="both">
 
-<img src="https://github.com/mohamed-anter19200/mohamed-anter19200/raw/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mohamed-anter19200/raw/output/snake.svg" alt="Snake animation" />
 
 ---
